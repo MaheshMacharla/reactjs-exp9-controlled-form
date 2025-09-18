@@ -1,12 +1,11 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## User Registration Form
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project demonstrates a **user registration form in React with Vite** using controlled inputs (`name`, `email`, and `password`).  
+When the form is submitted, the entered details are displayed in an alert box and logged to the console.
 
-## Expanding the ESLint configuration
+### Screenshot
+Below is a screenshot of the app running on `http://localhost:5173/`:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![WhatsApp Image 2025-09-11 at 13 26 14_e213f2f7](https://github.com/user-attachments/assets/3f9acc78-fa14-4375-939f-457a3a544d93)
